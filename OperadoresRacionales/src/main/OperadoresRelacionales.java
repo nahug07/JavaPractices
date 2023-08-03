@@ -1,9 +1,9 @@
 package main;
 
-public class OperadoresRacionales {
+public class OperadoresRelacionales {
 
 	public static void main(String[] args) {
-		// Operadores Racionales
+		// Operadores Relacionales
 		
 		int variable1 = 300, variable2 = 200;
 		boolean resultado;
